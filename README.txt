@@ -1,4 +1,4 @@
-# Advanced Clustering Techniques for Customer Segmentation – README
+# Advanced Clustering Techniques for Customer Segmentation 
 
 > **Course:** Machine Learning (CSL 7620)
 > **Team:** Pooja Naveen Poonia (M24CSA020), Shivani Tiwari (M24CSA029), Suvigya Sharma (M24CSA033)
